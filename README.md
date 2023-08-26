@@ -1,4 +1,4 @@
-## 👋 Welcome to the WMC UI Public Beta!
+# 👋 Welcome to the WMC UI Public Beta!
 
 Thanks for your interest in the WMC UI and for being part of this!
 
@@ -26,24 +26,24 @@ Issues are used for tracking work that needs to be done
 
 Please always start a new topic for a new subject and let's try to avoid endless conversations which are "about everything" 
 
-## Platform Availability
+# Platform Availability
 
 The WMC UI Beta is currently available in the following forms:
 
-- [Web Browser & Installable Web App](#web-browser-&-installable-web-app)
-- [Emby Theater WMC (Windows)](#emby-theater-wmc-(windows))
-- Emby WMC (Android)
+- [Web Browser & Installable Web App](#web-browser--installable-web-app)
+- [Emby Theater WMC (Windows)](emby-theater-wmc-windows)
+- [Emby WMC (Android)](#emby-wmc-android)
 
-### Web Browser & Installable Web App
+## Web Browser & Installable Web App
 
-#### Web Browser
+### Web Browser
 
 There's an http and an https URL available:
 
 - http://wmc.emby.media/
 - https://wmc.emby.media/
 
-#### Installable Web App
+### Installable Web App
 
 To install the Emby WMC UI as a Web App, please go to
 
@@ -53,14 +53,14 @@ To install the Emby WMC UI as a Web App, please go to
 
   ![image](https://github.com/EmbySupport/Emby.WMC.UI/assets/4985349/4cde6742-2e64-47a1-b9d9-9b9bd7bb11e2)
 
-### Emby Theater WMC (Windows)
+## Emby Theater WMC (Windows)
 
-#### ClickOnce Installation (auto-updating)
+### ClickOnce Installation (auto-updating)
 
 - Win 32bit: https://softworkz.github.io/etwmc/setup/x86/
 - Win 64bit: https://softworkz.github.io/etwmc/setup/x64/
 
-#### Portable Installs
+### Portable Installs
 
 These are useful to test or compare specific versions or in case of issues with ClickOnce installation.
 
@@ -68,14 +68,14 @@ These can be found in the **Releases** section: https://github.com/EmbySupport/E
 
 Just unzip and run.
 
-### Emby WMC (Android)
+## Emby WMC (Android)
 
 The app version can be installed in parallel to the regular Emby Android App and the ATV app.
 Please side-load the app by using the matching APK.
 
 The APKs can be found in the **Releases** section: https://github.com/EmbySupport/Emby.WMC.UI/releases
 
-#### NOTE
+### NOTE
 
 The Android app is limited by date, so that it is working within 10 days after release.
 We'll try to always have a new release ready before the previous one expires.
