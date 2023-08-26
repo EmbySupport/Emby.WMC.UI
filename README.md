@@ -75,7 +75,7 @@ Please side-load the app by using the matching APK.
 
 The APKs can be found in the **Releases** section: https://github.com/EmbySupport/Emby.WMC.UI/releases
 
-### NOTE
+#### NOTE
 
 The Android app is limited by date, so that it is working within 10 days after release.
 We'll try to always have a new release ready before the previous one expires.
