@@ -51,7 +51,8 @@ To install the Emby WMC UI as a Web App, please go to
 - and click the icon in the address bar
   with Chrome, it looks like this:
 
-  ![image](https://github.com/EmbySupport/Emby.WMC.UI/assets/4985349/4cde6742-2e64-47a1-b9d9-9b9bd7bb11e2)
+![image](https://github.com/EmbySupport/Emby.WMC.UI/assets/4985349/1894a3d9-7a8c-4600-9fb3-a8ea6ec577a4)
+
 
 ## Emby Theater WMC (Windows)
 
