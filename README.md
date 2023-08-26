@@ -64,8 +64,7 @@ To install the Emby WMC UI as a Web App, please go to
 ### Portable Installs
 
 These are useful to test or compare specific versions or in case of issues with ClickOnce installation.
-
-These can be found in the **Releases** section: https://github.com/EmbySupport/Emby.WMC.UI/releases
+They can be found in the **Releases** section: https://github.com/EmbySupport/Emby.WMC.UI/releases
 
 Just unzip and run.
 
