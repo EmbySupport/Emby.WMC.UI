@@ -58,7 +58,6 @@ To install the Emby WMC UI as a Web App, please go to
 
 ### ClickOnce Installation (auto-updating)
 
-- Win 32bit: https://softworkz.github.io/etwmc/setup/x86/
 - Win 64bit: https://softworkz.github.io/etwmc/setup/x64/
 
 ### Portable Installs
