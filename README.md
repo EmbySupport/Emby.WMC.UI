@@ -1,4 +1,4 @@
-# 👋 Welcome to the WMC UI Public Beta!
+# Welcome to the WMC UI Public Beta! <img src="https://github.com/EmbySupport/Emby.WMC.UI/assets/4985349/b55bb640-17ae-447d-9b16-51b474aebc59" alt="EmbyButton7" style="float: right; max-width: 100%;">    
 
 Thanks for your interest in the WMC UI and for being part of this!
 
