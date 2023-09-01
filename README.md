@@ -1,5 +1,4 @@
-# Welcome to the WMC UI Public Beta! <img src="https://github.com/EmbySupport/Emby.WMC.UI/assets/4985349/7e5bddef-1450-4d4a-b540-89e95334a348" alt="EmbyButton7" style="float: right; max-width: 100%;">    
-![image](https://github.com/EmbySupport/Emby.WMC.UI/assets/4985349/7e5bddef-1450-4d4a-b540-89e95334a348)
+# Welcome to the WMC UI Public Beta! <img src="https://github.com/EmbySupport/Emby.WMC.UI/assets/4985349/7e5bddef-1450-4d4a-b540-89e95334a348" alt="EmbyButton7" style="float: right; max-width: 200px;">    
 
 Thanks for your interest in the WMC UI and for being part of this!
 
